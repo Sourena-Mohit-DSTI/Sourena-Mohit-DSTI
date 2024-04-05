@@ -17,7 +17,7 @@ As a professional in the realm of data engineering, my primary goal is to extrac
 I am always open to meaningful professional connections and collaborations. Feel free to reach out to me via:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sourena-mohit)
-- 🚀 [GitHub](https://github.com/Sourena-Mohit-DSTI)
+- 🚀 [GitHub](https://github.com/Sourena-Mohit)
 - 📧 [Email](mailto:mohit.sourena@outlook.com)
 
 Let's engage in discussions, share insights, and explore opportunities to contribute to impactful projects together.
